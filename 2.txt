@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-commit te nutso
-=======
-fdfddfd
->>>>>>> parent of 59fa528 (NIE POWINNO WYSALC DOC)
